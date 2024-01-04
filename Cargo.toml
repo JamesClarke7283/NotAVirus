@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "libmal",
+    "notarickroll",
+]
+resolver = "2"
+
+

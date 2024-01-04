@@ -1,0 +1,9 @@
+[package]
+name = "notarickroll"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+mal = { path = "../libmal" }
+
+
